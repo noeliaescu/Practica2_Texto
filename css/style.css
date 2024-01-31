@@ -1,0 +1,42 @@
+body { 
+  background: #989998; 
+  color:#eee;
+}
+h1 {
+  text-align: center;
+  background-color: #666665;
+  border: 5px black solid;
+}
+#derecha{
+  margin-top: 0px;
+  width: 20%;
+  border: 5px solid red;
+  text-align: center;
+  background: #666666;
+  float: right; 
+
+}
+
+#centro{
+  width: 50%;
+  margin-left: 25%;
+  border: 5px black solid;
+}
+
+#izquierda{
+  margin-top: 0px;
+  width: 20%;
+  border: 5px solid red;
+  text-align: center;
+  background: #666666; 
+  float: left;
+
+}
+img {
+    width: 50%;
+    border: 5px solid black;
+}
+.recuperar{
+  border: 5px solid blue;
+  clear: both;
+}
